@@ -8,14 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		37593C051D5C08B700E27AD7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 37593C041D5C08B700E27AD7 /* main.m */; };
-		37593C081D5C08B700E27AD7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 37593C071D5C08B700E27AD7 /* AppDelegate.m */; };
-		37593C0B1D5C08B700E27AD7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 37593C0A1D5C08B700E27AD7 /* ViewController.m */; };
-		37593C0E1D5C08B700E27AD7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37593C0C1D5C08B700E27AD7 /* Main.storyboard */; };
 		37593C111D5C08B700E27AD7 /* MeitunWaimai.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 37593C0F1D5C08B700E27AD7 /* MeitunWaimai.xcdatamodeld */; };
-		37593C131D5C08B700E27AD7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37593C121D5C08B700E27AD7 /* Assets.xcassets */; };
-		37593C161D5C08B700E27AD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37593C141D5C08B700E27AD7 /* LaunchScreen.storyboard */; };
 		37593C211D5C08B700E27AD7 /* MeitunWaimaiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 37593C201D5C08B700E27AD7 /* MeitunWaimaiTests.m */; };
 		37593C2C1D5C08B700E27AD7 /* MeitunWaimaiUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 37593C2B1D5C08B700E27AD7 /* MeitunWaimaiUITests.m */; };
+		3793E8B31E2F4B4400D1F0F7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3793E8A61E2F4B4400D1F0F7 /* ViewController.m */; };
+		3793E8B41E2F4B4400D1F0F7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3793E8AA1E2F4B4400D1F0F7 /* AppDelegate.m */; };
+		3793E8B51E2F4B4400D1F0F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3793E8AB1E2F4B4400D1F0F7 /* Assets.xcassets */; };
+		3793E8B61E2F4B4400D1F0F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3793E8AC1E2F4B4400D1F0F7 /* LaunchScreen.storyboard */; };
+		3793E8B71E2F4B4400D1F0F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3793E8AE1E2F4B4400D1F0F7 /* Main.storyboard */; };
+		3793E8B81E2F4B4400D1F0F7 /* MeitunWaimai.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3793E8B01E2F4B4400D1F0F7 /* MeitunWaimai.xcdatamodeld */; };
 		5CBFF3BFD772FBB383AF954B /* libPods-MeitunWaimaiTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 99F3850CE390D4302120528D /* libPods-MeitunWaimaiTests.a */; };
 		866F260F08F3E3AA899FF6FE /* libPods-MeitunWaimaiUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B760DCC8FA30F99709C50158 /* libPods-MeitunWaimaiUITests.a */; };
 		E1CA0103EAD67AEB7215F2F2 /* libPods-MeitunWaimai.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EF8B2C3B615B7F9BDD97D22F /* libPods-MeitunWaimai.a */; };
@@ -42,14 +43,7 @@
 		14AACE1333E56816C3243722 /* Pods-MeitunWaimaiUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeitunWaimaiUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MeitunWaimaiUITests/Pods-MeitunWaimaiUITests.release.xcconfig"; sourceTree = "<group>"; };
 		37593C001D5C08B700E27AD7 /* MeitunWaimai.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeitunWaimai.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		37593C041D5C08B700E27AD7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		37593C061D5C08B700E27AD7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		37593C071D5C08B700E27AD7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		37593C091D5C08B700E27AD7 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		37593C0A1D5C08B700E27AD7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		37593C0D1D5C08B700E27AD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		37593C101D5C08B700E27AD7 /* MeitunWaimai.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MeitunWaimai.xcdatamodel; sourceTree = "<group>"; };
-		37593C121D5C08B700E27AD7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		37593C151D5C08B700E27AD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		37593C171D5C08B700E27AD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		37593C1C1D5C08B700E27AD7 /* MeitunWaimaiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeitunWaimaiTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		37593C201D5C08B700E27AD7 /* MeitunWaimaiTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MeitunWaimaiTests.m; sourceTree = "<group>"; };
@@ -57,6 +51,14 @@
 		37593C271D5C08B700E27AD7 /* MeitunWaimaiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeitunWaimaiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		37593C2B1D5C08B700E27AD7 /* MeitunWaimaiUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MeitunWaimaiUITests.m; sourceTree = "<group>"; };
 		37593C2D1D5C08B700E27AD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3793E8A51E2F4B4400D1F0F7 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		3793E8A61E2F4B4400D1F0F7 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		3793E8A91E2F4B4400D1F0F7 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3793E8AA1E2F4B4400D1F0F7 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		3793E8AB1E2F4B4400D1F0F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3793E8AD1E2F4B4400D1F0F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3793E8AF1E2F4B4400D1F0F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3793E8B11E2F4B4400D1F0F7 /* MeitunWaimai.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MeitunWaimai.xcdatamodel; sourceTree = "<group>"; };
 		38C8AE8CBD271467C19F5957 /* Pods-MeitunWaimai.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeitunWaimai.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MeitunWaimai/Pods-MeitunWaimai.debug.xcconfig"; sourceTree = "<group>"; };
 		489A5D9A84BB928678E50730 /* Pods-MeitunWaimaiUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeitunWaimaiUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MeitunWaimaiUITests/Pods-MeitunWaimaiUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		99F3850CE390D4302120528D /* libPods-MeitunWaimaiTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MeitunWaimaiTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -120,15 +122,7 @@
 		37593C021D5C08B700E27AD7 /* MeitunWaimai */ = {
 			isa = PBXGroup;
 			children = (
-				37593C061D5C08B700E27AD7 /* AppDelegate.h */,
-				37593C071D5C08B700E27AD7 /* AppDelegate.m */,
-				37593C091D5C08B700E27AD7 /* ViewController.h */,
-				37593C0A1D5C08B700E27AD7 /* ViewController.m */,
-				37593C0C1D5C08B700E27AD7 /* Main.storyboard */,
-				37593C121D5C08B700E27AD7 /* Assets.xcassets */,
-				37593C141D5C08B700E27AD7 /* LaunchScreen.storyboard */,
-				37593C171D5C08B700E27AD7 /* Info.plist */,
-				37593C0F1D5C08B700E27AD7 /* MeitunWaimai.xcdatamodeld */,
+				3793E8A21E2F4B4400D1F0F7 /* Classes */,
 				37593C031D5C08B700E27AD7 /* Supporting Files */,
 			);
 			path = MeitunWaimai;
@@ -137,6 +131,8 @@
 		37593C031D5C08B700E27AD7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				37593C171D5C08B700E27AD7 /* Info.plist */,
+				37593C0F1D5C08B700E27AD7 /* MeitunWaimai.xcdatamodeld */,
 				37593C041D5C08B700E27AD7 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -158,6 +154,61 @@
 				37593C2D1D5C08B700E27AD7 /* Info.plist */,
 			);
 			path = MeitunWaimaiUITests;
+			sourceTree = "<group>";
+		};
+		3793E8A21E2F4B4400D1F0F7 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				3793E8A31E2F4B4400D1F0F7 /* Main */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		3793E8A31E2F4B4400D1F0F7 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				3793E8A41E2F4B4400D1F0F7 /* Controller */,
+				3793E8A71E2F4B4400D1F0F7 /* Model */,
+				3793E8A81E2F4B4400D1F0F7 /* Other */,
+				3793E8B21E2F4B4400D1F0F7 /* View */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		3793E8A41E2F4B4400D1F0F7 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				3793E8A51E2F4B4400D1F0F7 /* ViewController.h */,
+				3793E8A61E2F4B4400D1F0F7 /* ViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		3793E8A71E2F4B4400D1F0F7 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3793E8A81E2F4B4400D1F0F7 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				3793E8A91E2F4B4400D1F0F7 /* AppDelegate.h */,
+				3793E8AA1E2F4B4400D1F0F7 /* AppDelegate.m */,
+				3793E8AB1E2F4B4400D1F0F7 /* Assets.xcassets */,
+				3793E8AC1E2F4B4400D1F0F7 /* LaunchScreen.storyboard */,
+				3793E8AE1E2F4B4400D1F0F7 /* Main.storyboard */,
+				3793E8B01E2F4B4400D1F0F7 /* MeitunWaimai.xcdatamodeld */,
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
+		3793E8B21E2F4B4400D1F0F7 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 		64B430856050B9ECA490866B /* Frameworks */ = {
@@ -295,9 +346,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37593C161D5C08B700E27AD7 /* LaunchScreen.storyboard in Resources */,
-				37593C131D5C08B700E27AD7 /* Assets.xcassets in Resources */,
-				37593C0E1D5C08B700E27AD7 /* Main.storyboard in Resources */,
+				3793E8B71E2F4B4400D1F0F7 /* Main.storyboard in Resources */,
+				3793E8B51E2F4B4400D1F0F7 /* Assets.xcassets in Resources */,
+				3793E8B61E2F4B4400D1F0F7 /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -460,8 +511,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37593C0B1D5C08B700E27AD7 /* ViewController.m in Sources */,
-				37593C081D5C08B700E27AD7 /* AppDelegate.m in Sources */,
+				3793E8B81E2F4B4400D1F0F7 /* MeitunWaimai.xcdatamodeld in Sources */,
+				3793E8B41E2F4B4400D1F0F7 /* AppDelegate.m in Sources */,
+				3793E8B31E2F4B4400D1F0F7 /* ViewController.m in Sources */,
 				37593C051D5C08B700E27AD7 /* main.m in Sources */,
 				37593C111D5C08B700E27AD7 /* MeitunWaimai.xcdatamodeld in Sources */,
 			);
@@ -499,20 +551,20 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		37593C0C1D5C08B700E27AD7 /* Main.storyboard */ = {
+		3793E8AC1E2F4B4400D1F0F7 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				37593C0D1D5C08B700E27AD7 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		37593C141D5C08B700E27AD7 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				37593C151D5C08B700E27AD7 /* Base */,
+				3793E8AD1E2F4B4400D1F0F7 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		3793E8AE1E2F4B4400D1F0F7 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3793E8AF1E2F4B4400D1F0F7 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -693,6 +745,7 @@
 				37593C321D5C08B700E27AD7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		37593C331D5C08B700E27AD7 /* Build configuration list for PBXNativeTarget "MeitunWaimaiTests" */ = {
 			isa = XCConfigurationList;
@@ -701,6 +754,7 @@
 				37593C351D5C08B700E27AD7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		37593C361D5C08B700E27AD7 /* Build configuration list for PBXNativeTarget "MeitunWaimaiUITests" */ = {
 			isa = XCConfigurationList;
@@ -709,6 +763,7 @@
 				37593C381D5C08B700E27AD7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
@@ -719,6 +774,16 @@
 				37593C101D5C08B700E27AD7 /* MeitunWaimai.xcdatamodel */,
 			);
 			currentVersion = 37593C101D5C08B700E27AD7 /* MeitunWaimai.xcdatamodel */;
+			path = MeitunWaimai.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+		3793E8B01E2F4B4400D1F0F7 /* MeitunWaimai.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				3793E8B11E2F4B4400D1F0F7 /* MeitunWaimai.xcdatamodel */,
+			);
+			currentVersion = 3793E8B11E2F4B4400D1F0F7 /* MeitunWaimai.xcdatamodel */;
 			path = MeitunWaimai.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
